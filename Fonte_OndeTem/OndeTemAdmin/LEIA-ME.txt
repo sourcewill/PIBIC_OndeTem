@@ -1,0 +1,49 @@
+Documento de instruções sobre o sistema OndeTemAdmin.
+
+*OBSERVAÇÃO: Este sistema poderá ser executado somente após uma configuração prévia
+realizada pelo sistema "OndeTemConfig.jar". 
+O sistema OndeTemConfig deve ser executado apenas uma primeira vez para configurar
+o ambiente.
+
+=======================================================================================
+
+                         Configuração do Banco de Dados
+
+=======================================================================================
+
+A configuração do banco de dados deve ser feita no arquivo "config-banco.properties".
+O conteúdo deste arquivo precisa ser idêntico ao do arquivo presente no diretório do
+sistema "OndeTemConfig". Para mais informações leia a documentação do sistema citado.
+
+=======================================================================================
+
+                               Usuários e Permissões
+
+=======================================================================================
+
+Existem permissões para cada usuário cadastrado no sistema, dependendo do tipo de
+permissão de um usuário, o mesmo terá acesso a determinadas fncionaliddes do sistema.
+
+• Permissão "Administrador"
+Este usuário tem acesso ao gerencimaneto de locais cadastrados no sistema "OndeTemWeb"
+e também possui acesso ao gerenciamento de usuários.
+
+• Permissão "Usuario"
+Este usuário tem acesso somente ao gerencimaneto de locais cadastrados no sistema
+"OndeTemWeb".
+
+=======================================================================================
+
+                          Usuário Administrador Padrão
+
+=======================================================================================
+
+Assim que ocorre a configuração inicial do banco de dados, realizada pelo sistema
+"OndeTemConfig", um usuário Administrador padrão é criado contendo as seguintes
+inforações de acesso:
+
+Login: admin
+Senha: admin
+
+Realize login usando estas informações, e em seguida, no menu de gerenciamento de
+usuários, modifique a senha do mesmo.

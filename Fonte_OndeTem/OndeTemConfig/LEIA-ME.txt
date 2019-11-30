@@ -1,0 +1,65 @@
+Documento de instruções para uso do sistema OndeTemConfig.
+
+Este sistema deve ser executado apenas uma primeira vez para configurar o banco de
+dados dos demais sistemas: "CarwlerJava", "OndeTemWeb" e "OndeTemAdmin".
+
+=======================================================================================
+
+                     Arquivo de Configuração do Banco de Dados
+
+=======================================================================================
+
+A configuração do banco de dados deve ser feita no arquivo externo 
+"config-banco.properties" que segue a estrutura:
+
+javax.persistence.jdbc.url = ...
+javax.persistence.jdbc.user = ...
+javax.persistence.jdbc.password = ...
+javax.persistence.jdbc.driver = ...
+
+Este arquivo deve estar no mesmo diretório do execuavel "OndeTemConfig.jar"
+
+=======================================================================================
+
+                                Executando o Sistema
+
+=======================================================================================
+
+O sistema não necessita de argumentos, e é executado pela seguinte linha de comando:
+
+java -jar "OndeTemConfig.jar"
+
+=======================================================================================
+
+                   Concluindo a Configuração Para os Demais Sistemas
+
+=======================================================================================
+
+Após a execução do sistema, copie o arquivo "config-banco.properties" usado para
+configurar o banco de dados, e o substitua nos diretórios dos demais sistemas:
+"CarwlerJava", "OndeTemWeb" e "OndeTemAdmin" para que os mesmos possam acessar o banco
+de dados configurado neste sistema.
+
+=======================================================================================
+
+                             Outros Arquivos Externos
+
+=======================================================================================
+
+Este sistema também persiste objetos queserão utilizados nos demais sistemas,
+utilizando para isso os seguintes arquivos externos.
+
+• "type_category_google.txt"
+Este arquivo  faz a correspondência entre tipos (encontrados nos locais da API do Google)
+e categorias a serem registrados no banco de dados da aplicação.
+Cada linha do arquivo deve conter três campos, separados pelo caractere ">", sendo eles:
+Tipo, categoria e tradução para o português.
+Por exemplo: airport>public_transport>Aeroporto
+
+• "type_category_kekanto.txt"
+Este aqruivo faz a correspondência entre tipos (encontrados nos locais do site Kekanto)
+e categorias a serem registrados no banco de dados da aplicação.
+Cada linha do arquivo deve conter três campos, separados pelo caractere ">", sendo eles:
+Tipo, categoria e tradução para o português.
+Por exemplo: Cafes e Comidinhas>food_drink>Cafes e Comidinhas
+

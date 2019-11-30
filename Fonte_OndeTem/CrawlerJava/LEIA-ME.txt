@@ -1,0 +1,88 @@
+Documento de instruções para uso do Crawler.
+
+*OBSERVAÇÃO: Este sistema poderá ser executado somente após uma configuração prévia
+realizada pelo sistema "OndeTemConfig.jar". 
+O sistema OndeTemConfig deve ser executado apenas uma primeira vez para configurar
+o ambiente.
+
+=======================================================================================
+
+                         Configuração do Banco de Dados
+
+=======================================================================================
+
+A configuração do banco de dados deve ser feita no arquivo "config-banco.properties".
+O conteúdo deste arquivo precisa ser idêntico ao do arquivo presente no diretório do
+sistema "OndeTemConfig". Para mais informações leia a documentação do sistema citado.
+
+=======================================================================================
+
+                     Argumentos de entrada para uso do Crawler
+
+=======================================================================================
+
+Existem dois modos em que o Crawler pode ser usado, sendo eles API ou WEB.
+Desta forma, o primeiro argumento de entrada para o Crawler deve ser 
+obrigatoriamente a escolha de um dos modos, passando respectivamente
+as palavras "API" ou "WEB".
+Após a escolha do modo, os argumentos seguintes variam em cada modo, 
+e serão explicados a seguir.
+
+---------------------------------------------------------------------------------------
+
+• Modo API:
+O modo API realiza o Crawler de pontos de interesse utilizando a API do Google,
+partindo de uma coordenada inicial e buscando os pontos de interesse em 
+determinado raio a partir do ponto especificado.
+
+Portanto os argumentos seguintes devem ser passados na ordem, separados por um espaço:
+API Key do Google, latitude, longitude, raio (em metros).
+
+--> Exemplo de argumentos para uso do Crawler API:
+API AIzaSyAIi_txg6WRElTgLK1rwxUDaEvv1Q12mfs -23.408198 -51.932827 150
+
+No exemplo citado o Crawler API realizará a busca de pontos de interesse a partir
+das coordenadas [-23.408198, -51.932827] em um raio de 1500 metros.
+
+Documentação da API do Google disponível em:  
+https://developers.google.com/places/web-service/intro?hl=pt-BR 
+
+---------------------------------------------------------------------------------------
+
+• Modo WEB:
+O modo WEB realiza o Crawler de pontos de interesse em uma determinada cidade retirando
+as informações contidas no site Kekanto que segue URL: https://kekanto.com.br
+
+Para uso do mesmo é necessário passar o seguintes argumento:
+ID da cidade no site Kekanto.
+O argumento ID da cidade não é obrigatório, e caso não for fornecido, como padrão, será
+utilizado o ID da cidade de Maringá - PR.
+
+--> Exemplo de argumentos para uso do Crawler Web:
+WEB 259377
+
+No exemplo citado o Crawler WEB realizará a busca de pontos de interesse na cidade
+de Maringá partindo da primeira página de resultados.
+
+Para obter o ID de determinada uma cidade basta visitar a página inicial do site Kekanto
+(https://kekanto.com.br), selecionar a cidade que deseja obter o ID, 
+realizar uma busca e observar o argumento "cidade_id" na URL da busca. 
+Por exemplo "&cidade_id=250341" quando buscamos por locais na cidade "Curitiba - PR".
+
+=======================================================================================
+
+                      Arquivos externos de configuração do Crawler
+
+=======================================================================================
+
+• "palavras_proibidas.txt"
+Este arquivo é utilizado no modo Crawler API para validação de um local.
+Cada linha no arquivo deve conter palavras que não podem aparecer simultaneamente 
+em um local, devem estar separadas por um espaço.
+Por exemplo: republica restaurante beleza
+
+• "tipos_nao_categorizados.txt"
+Este arquivo será criado automaticamente no modo Crawler WEB quando o Crawler
+encontrar um tipo de local que ainda não foi inserido no arquivo de configuração
+"type_category_kekanto.txt". O Crawler insere uma nova linha no arquivo com o 
+respectivo tipo sempre que isso ocorrer.

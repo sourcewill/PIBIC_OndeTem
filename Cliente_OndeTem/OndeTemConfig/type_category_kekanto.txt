@@ -1,0 +1,168 @@
+Lojas, Shoppings e Compras>service_shops_stores>Lojas, Shoppings e Compras
+Restaurantes>food_drink>Restaurantes
+Farmacias, Medicos e Hospitais>medical_care>Farmacias, Medicos e Hospitais
+Casa, Construcao e Servicos Residenciais>basic_home_services>Casa, Construcao e Servicos Residenciais
+Carros e Servicos Automotivos>car_services>Carros e Servicos Automotivos
+Cabeleireiros e Estetica>beauty_care>Cabeleireiros e Estetica
+Profissionais Liberais>public_services>Profissionais Liberais
+Cafes e Comidinhas>food_drink>Cafes e Comidinhas
+Escolas>education>Escolas
+Medicos>medical_care>Medicos
+Predios e Escritorios>administrative_services>Predios e Escritorios
+Moda, Calcados e Acessorios>service_shops_stores>Moda, Calcados e Acessorios
+Cabeleireiros e Salao de Beleza>beauty_care>Cabeleireiros e Salao de Beleza
+Supermercados, Mercados e Conveniencia>service_shops_stores>Supermercados, Mercados e Conveniencia
+Transportes, Gasolina e Estacionamentos>car_services>Transportes, Gasolina e Estacionamentos
+Servicos para Festas e Eventos>service_shops_stores>Servicos para Festas e Eventos
+Esportes e Academias>recreation>Esportes e Academias
+Bares, Baladas e Vida noturna>culture_entertainment>Bares, Baladas e Vida noturna
+Bares e Pubs>food_drink>Bares e Pubs
+Hoteis e Viagens>lodging>Hoteis e Viagens
+Casa e Jardim>basic_home_services>Casa e Jardim
+Lanchonetes>food_drink>Lanchonetes
+Bancos e Servicos Financeiros>bank>Bancos e Servicos Financeiros
+Farmacia>medical_care>Farmacia
+Fabrica>public_services>Fabrica>
+Bares e Botecos>food_drink>Bares e Botecos
+Dentistas>medical_care>Dentistas
+Atracoes - O que fazer>culture_entertainment>Atracoes - O que fazer
+Servicos Publicos>public_services>Servicos Publicos
+Eletronicos e Computadores>service_shops_stores>Eletronicos e Computadores
+Academias>recreation>Academias
+Centros Religiosos>places_worship>Centros Religiosos
+Livros, Revistas e Musica>service_shops_stores>Livros, Revistas e Musica
+Igrejas>places_worship>Igrejas
+Movel / Decoracao>basic_home_services>Movel / Decoracao
+Posto de Gasolina>car_services>Posto de Gasolina
+Shoppings e Centros comerciais>service_shops_stores>Shoppings e Centros comerciais
+Auto Pecas>car_services>Auto Pecas
+Pizzarias>food_drink>Pizzarias
+Imobiliarias>public_services>Imobiliarias
+Supermercados>service_shops_stores>Supermercados
+Pets e Animais de Estimacao>animal_care>Pets e Animais de Estimacao
+Hospitais>emergency_services>Hospitais
+Padarias>food_drink>Padarias
+Docerias>food_drink>Docerias
+Advogados>administrative_services>Advogados
+Graficas>service_shops_stores>Graficas
+Mecanica>car_services>Mecanica
+Lan Houses>service_shops_stores>Lan Houses
+Escolas>education>Escolas
+Empreiteiros>public_services>Empreiteiros
+Hoteis>lodging>Hoteis
+Concessionarias>car_services>Concessionarias
+Buffet>food_drink>Buffet
+Agencia de Turismo>service_shops_stores>Agencia de Turismo
+Shoppings>service_shops_stores>Shoppings
+Calcados>service_shops_stores>Calcados
+Clinica de Estetica>beauty_care>Clinica de Estetica
+Joalherias>service_shops_stores>Joalherias
+Sorvetes>food_drink>Sorvetes
+Lojas de Motocicletas>service_shops_stores>Lojas de Motocicletas
+Beleza, Saude e Cosmeticos>beauty_care>Beleza, Saude e Cosmeticos
+Pneus, Alinhamento e Balanceamento>car_services>Pneus, Alinhamento e Balanceamento
+Informatica>service_shops_stores>Informatica
+Loja de Vestidos>service_shops_stores>Loja de Vestidos
+Cafes>food_drink>Cafes
+Bancos>bank>Bancos
+Motoboys>public_transport>Motoboy
+Vidraceiros>service_shops_stores>Vidraceiros
+Churrascarias>food_drink>Churrascarias
+Faculdades>education>Faculdades
+Salgados>food_drink>Salgados
+Ferramentas / Ferragem>service_shops_stores>Ferramentas / Ferragem
+Eletro-Eletronicos>service_shops_stores>Eletro-Eletronicos
+Veterinario>animal_care>Veterinario
+Telecom e Energia>public_services>Telecom e Energia
+Audio / Foto / Video>service_shops_stores>Audio / Foto / Video
+Livrarias>service_shops_stores>Livrarias
+Pontos de Taxis>public_transport>Pontos de Taxis
+Estacionamentos>car_services>Estacionamentos
+Restaurantes Brasileiros>food_drink>Restaurantes Brasileiros
+Roupa Feminina>service_shops_stores>Roupa Feminina
+Restaurantes Japoneses>food_drink>Restaurantes Japoneses
+Transportadoras>public_services>Transportadoras
+Papelaria>service_shops_stores>Papelaria
+Contadores>service_shops_stores>Contadores
+Celular>service_shops_stores>Celular
+Cosmetico / Perfumaria>beauty_care>Cosmetico / Perfumaria
+Pintores>public_services>Pintores
+Auto Eletricas>car_services>Auto Eletricas
+Floricultura>service_shops_stores>Floricultura
+Laboratorios>medical_care>Laboratorios
+Pet Shops>animal_care>Pet Shops
+Mercados e Armazens>service_shops_stores>Mercados e Armazens
+Porta / Janela / Persiana>basic_home_services>Porta / Janela / Persiana
+Suco Natural>food_drink>Suco Natural
+Clinica de Saude>medical_care>Clinica de Saude
+Jardinagem>basic_home_services>Jardinagem
+Acougues>food_drink>Acougues
+Escola de Idiomas>education>Escola de Idiomas
+Ar Livre>recreation>Ar Livre
+Feiras e Hortifruti>food_drink>Feiras e Hortifruti
+Cervejaria>food_drink>Cervejaria
+Baladas e Boates>recreation>Baladas e Boates
+Parques>recreation>Parques
+Restaurantes de Frutos do Mar>food_drink>Restaurantes de Frutos do Mar
+Tatuadores>service_shops_stores>Tatuadores
+Pubs>food_drink>Pubs
+Centro de Eventos>service_shops_stores>Centro de Eventos
+Restaurantes Mexicanos>food_drink>Restaurantes Mexicanos
+Parque Aquatico>recreation>Parque Aquatico
+Restaurantes Italianos>food_drink>Restaurantes Italianos
+Fast Food>food_drink>Fast Food
+Motel>lodging>Motel
+Sebos>service_shops_stores>Sebos
+Teatros>culture_entertainment>Teatros
+Aeroportos>public_transport>Aeroportos
+Restaurantes Asiaticos>food_drink>Restaurantes Asiaticos
+Loja de Departamentos>service_shops_stores>Loja de Departamentos
+Food Truck>food_drink>Food Truck
+Prefeituras>government>Prefeituras
+Restaurantes Contemporaneos>food_drink>Restaurantes Contemporaneos
+Bibliotecas>public_services>Bibliotecas
+Buffet e Quilo>food_drink>Buffet e Quilo
+Moda Esportiva e Equipamentos>service_shops_stores>Moda Esportiva e Equipamentos
+Restaurantes Arabes>food_drink>Restaurantes Arabes
+Restaurantes Franceses e Bistros>food_drink>Restaurantes Franceses e Bistros
+Futebol>recreation>Futebol
+Maquiagem>beauty_care>Maquiagem
+Cinemas>recreation>Cinemas
+Clubes>recreation>Clubes
+Jardim>recreation>Jardim
+Hospital Veterinario>animal_care>Hospital Veterinario
+Distribuidora de Agua>public_services>Distribuidora de Agua
+Colchoes>service_shops_stores>Colchoes
+Boliche>recreation>Boliche
+Baladas LGBT>recreation>Baladas LGBT
+Sex shops>service_shops_stores>Sex shops
+Restaurantes Vegetarianos>food_drink>Restaurantes Vegetarianos
+Funerarias e Cemiterios>places_worship>Funerarias e Cemiterios
+Chaveiros>service_shops_stores>Chaveiros
+Frigorifico>service_shops_stores>Frigorifico
+Eletrica / Iluminacao>service_shops_stores>Eletrica / Iluminacao
+Bercario>education>Bercario
+Museus>culture_entertainment>Museus
+Hamburguerias>food_drink>Hamburguerias
+Loja de Brinquedos>service_shops_stores>Loja de Brinquedos
+Servicos de Limpeza>basic_home_services>Servicos de Limpeza
+Pesca>recreation>Pesca
+Otica>service_shops_stores>Otica
+Roupa Intima>service_shops_stores>Roupa Intima
+Cassino>recreation>Cassino
+Pracas>recreation>Pracas
+Restaurantes Chineses>food_drink>Restaurantes Chineses
+Uisqueria>food_drink>Uisqueria
+Sinuca>recreation>Sinuca
+Cartorios>administrative_services>Cartorios
+Banca de Jornal>service_shops_stores>Banca de Jornal
+Lotericas>public_services>Lotericas
+Restaurantes Portugueses>food_drink>Restaurantes Portugueses
+Roupa Masculina>service_shops_stores>Roupa Masculina
+Materiais de Construcao>basic_home_services>Materiais de Construcao
+Spas>beauty_care>Spas
+Cama, Mesa e Banho>basic_home_services>Cama, Mesa e Banho
+Hot Dog>food_drink>Hot Dog
+Curso de Informatica>education>Curso de Informatica
+Terminais Rodoviarios>public_transport>Terminais Rodoviarios
+Predio>lodging>Predio

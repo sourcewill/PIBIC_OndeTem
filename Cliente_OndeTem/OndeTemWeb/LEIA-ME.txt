@@ -1,0 +1,16 @@
+Documento de instruções sobre o sistema OndeTemWeb.
+
+*OBSERVAÇÃO: Este sistema poderá ser executado somente após uma configuração prévia
+realizada pelo sistema "OndeTemConfig.jar". 
+O sistema OndeTemConfig deve ser executado apenas uma primeira vez para configurar
+o ambiente.
+
+=======================================================================================
+
+                         Configuração do Banco de Dados
+
+=======================================================================================
+
+A configuração do banco de dados deve ser feita no arquivo "config-banco.properties".
+O conteúdo deste arquivo precisa ser idêntico ao do arquivo presente no diretório do
+sistema "OndeTemConfig". Para mais informações leia a documentação do sistema citado.

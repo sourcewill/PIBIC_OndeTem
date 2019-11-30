@@ -1,0 +1,92 @@
+accounting>administrative_services>Contabilidade
+airport>public_transport>Aeroporto
+amusement_park>recreation>Parque de Diversao
+aquarium>culture_entertainment>Aquario
+art_gallery>culture_entertainment>Galeria de Arte
+atm>bank>Caixa Automatico
+bakery>food_drink>Padaria
+bank>bank>Banco
+bar>food_drink>Bar
+beauty_salon>beauty_care>Salao de Beleza
+bicycle_store>service_shops_stores>Loja de Biciletas
+book_store>service_shops_stores>Loja de Livros
+bowling_alley>recreation>Boliche
+bus_station>public_transport>Estacao de Onibus
+cafe>food_drink>Cafe
+campground>lodging>Area de Camping
+car_dealer>car_services>Venda de Carros
+car_rental>car_services>Aluguel de Carros
+car_repair>car_services>Mecanico
+car_wash>car_services>Lava Carros
+casino>culture_entertainment>Cassino
+cemetery>places_worship>Cemiterio
+church>places_worship>Igreja
+city_hall>government>Prefeiruta
+clothing_store>service_shops_stores>Loja de Roupas
+convenience_store>food_drink>Conveniencia
+courthouse>government>Tribunal
+dentist>medical_care>Dentista
+department_store>service_shops_stores>Loja de Departamento
+doctor>medical_care>Doutor
+electrician>basic_home_services>Eletrecista
+electronics_store>service_shops_stores>Loja de Eletronicos
+embassy>government>Embaixada
+fire_station>emergency_services>Corpo de Bombeiros
+florist>service_shops_stores>Florista
+funeral_home>service_shops_stores>Funeraria
+furniture_store>service_shops_stores>Loja de Moveis
+gas_station>car_services>Posto de Gasolina
+gym>recreation>Academia
+hair_care>beauty_care>Cabeleireiro
+hardware_store>service_shops_stores>Loja de Hardware
+hindu_temple>places_worship>Templo Hindu
+home_goods_store>service_shops_stores>Loja de Artigos para Casa
+hospital>emergency_services>Hospital
+insurance_agency>administrative_services>Agencia de Seguros
+jewelry_store>service_shops_stores>Joalheria
+laundry>basic_home_services>Lavanderia
+lawyer>administrative_services>Advogado
+library>public_services>Biblioteca
+liquor_store>food_drink>Loja de Bebidas
+local_government_office>government>Governo
+locksmith>basic_home_services>Chaveiro
+lodging>lodging>Alojamento
+meal_delivery>food_drink>Entrega de Refeicoes
+meal_takeaway>food_drink>Refeicao
+mosque>places_worship>Mesquita
+movie_rental>service_shops_stores>Locadora
+movie_theater>culture_entertainment>Cinema
+moving_company>basic_home_services>Companhia Movente
+museum>culture_entertainment>Museu
+night_club>culture_entertainment>Boate
+painter>basic_home_services>Pintor
+park>recreation>Parque
+parking>car_services>Estacionamento
+pet_store>animal_care>Petshop
+pharmacy>medical_care>Farmacia
+physiotherapist>medical_care>Fisioterapeuta
+plumber>basic_home_services>Encanador
+point_of_interest>suprise_me>Ponto de Interesse
+police>emergency_services>Policia
+post_office>public_services>Correios
+real_estate_agency>lodging>Agencia Imobiliaria
+restaurant>food_drink>Restaurante
+roofing_contractor>basic_home_services>Empreiteiro de Coberturas
+rv_park>lodging>Parque RV
+school>education>Escola
+shoe_store>service_shops_stores>Loja de Sapatos
+shopping_mall>service_shops_stores>Sentro de Compras
+spa>recreation>Spa
+stadium>recreation>Estadio
+storage>storage>Armazenamento
+store>service_shops_stores>Loja
+subway_station>public_transport>Estacao de Metro
+supermarket>food_drink>Supermercado
+synagogue>places_worship>Sinagoga
+taxi_stand>public_transport>Ponto de Taxi
+train_station>public_transport>Estacao de Trem
+transit_station>public_transport>Estacao de Transito
+travel_agency>service_shops_stores>Agencia de Viagens
+university>education>Universidade
+veterinary_care>animal_care>Veterinario
+zoo>recreation>Zoologico
